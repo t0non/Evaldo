@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pinturapremiumbh.com.br/sitemap.xml
+Sitemap: https://pintorbh.com.br/sitemap.xml
